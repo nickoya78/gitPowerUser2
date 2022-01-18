@@ -10,4 +10,5 @@ if (ClientName == "James Bond") {
 let ClientNumber = 007;
 let ClientAge = 51;
 let ClientId = "MI6007247";
-let ClientPhone = 9112470007;
+let ClientPhoneNumber = 9112470007;
+let ClientSocial = 123456789;
