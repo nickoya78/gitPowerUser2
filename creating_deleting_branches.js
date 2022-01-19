@@ -1,4 +1,4 @@
-let ClientName = "James Bond";
+const ClientName = "James Bond";
 
 if (ClientName == "James Bond") {
   alert("Good Agent");
@@ -7,8 +7,8 @@ if (ClientName == "James Bond") {
 } else {
   alert("Mission Accomplished");
 }
-let ClientNumber = 007;
-let ClientAge = 51;
-let ClientId = "MI6007247";
-let ClientPhoneNumber = 9112470007;
-let ClientSocial = 123456789;
+const ClientNumber = 007;
+const ClientAge = 51;
+const ClientId = "MI6007247";
+const ClientPhoneNumber = 9112470007;
+const ClientSocial = 123456789;
