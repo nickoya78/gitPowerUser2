@@ -1,5 +1,4 @@
 const ClientName = "James Bond";
-
 if (ClientName == "James Bond") {
   alert("Good Agent");
 } else if (ClientName == "Hugo Drax") {
@@ -11,4 +10,4 @@ const ClientNumber = 007;
 const ClientAge = 51;
 const ClientId = "MI6007247";
 const ClientPhoneNumber = 9112470007;
-const ClientSocial = 123456789;
+const ClientSocialSecurity = 123456789;
